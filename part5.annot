@@ -1,0 +1,1314 @@
+"part5.ml" 9 123 127 "part5.ml" 9 123 130
+type(
+  'a -> 'b -> 'a
+)
+ident(
+  def tru "part5.ml" 10 153 153 "_none_" 1 0 -1
+)
+"part5.ml" 9 123 137 "part5.ml" 9 123 138
+type(
+  'a
+)
+ident(
+  def t "part5.ml" 9 123 142 "part5.ml" 9 123 152
+)
+"part5.ml" 9 123 146 "part5.ml" 9 123 147
+type(
+  'b
+)
+ident(
+  def f "part5.ml" 9 123 151 "part5.ml" 9 123 152
+)
+"part5.ml" 9 123 151 "part5.ml" 9 123 152
+type(
+  'a
+)
+ident(
+  int_ref t "part5.ml" 9 123 137 "part5.ml" 9 123 138
+)
+"part5.ml" 9 123 142 "part5.ml" 9 123 152
+type(
+  'b -> 'a
+)
+"part5.ml" 9 123 133 "part5.ml" 9 123 152
+type(
+  'a -> 'b -> 'a
+)
+"part5.ml" 10 153 157 "part5.ml" 10 153 160
+type(
+  'a -> 'b -> 'b
+)
+ident(
+  def fls "part5.ml" 12 184 184 "_none_" 1 0 -1
+)
+"part5.ml" 10 153 167 "part5.ml" 10 153 168
+type(
+  'a
+)
+ident(
+  def t "part5.ml" 10 153 172 "part5.ml" 10 153 182
+)
+"part5.ml" 10 153 176 "part5.ml" 10 153 177
+type(
+  'b
+)
+ident(
+  def f "part5.ml" 10 153 181 "part5.ml" 10 153 182
+)
+"part5.ml" 10 153 181 "part5.ml" 10 153 182
+type(
+  'b
+)
+ident(
+  int_ref f "part5.ml" 10 153 176 "part5.ml" 10 153 177
+)
+"part5.ml" 10 153 172 "part5.ml" 10 153 182
+type(
+  'b -> 'b
+)
+"part5.ml" 10 153 163 "part5.ml" 10 153 182
+type(
+  'a -> 'b -> 'b
+)
+"part5.ml" 12 184 188 "part5.ml" 12 184 192
+type(
+  ('a -> 'b -> 'c) -> 'a -> 'b -> 'c
+)
+ident(
+  def test "part5.ml" 14 229 229 "_none_" 1 0 -1
+)
+"part5.ml" 12 184 199 "part5.ml" 12 184 200
+type(
+  'a -> 'b -> 'c
+)
+ident(
+  def l "part5.ml" 12 184 204 "part5.ml" 12 184 227
+)
+"part5.ml" 12 184 208 "part5.ml" 12 184 209
+type(
+  'a
+)
+ident(
+  def m "part5.ml" 12 184 213 "part5.ml" 12 184 227
+)
+"part5.ml" 12 184 217 "part5.ml" 12 184 218
+type(
+  'b
+)
+ident(
+  def n "part5.ml" 12 184 222 "part5.ml" 12 184 227
+)
+"part5.ml" 12 184 222 "part5.ml" 12 184 223
+type(
+  'a -> 'b -> 'c
+)
+ident(
+  int_ref l "part5.ml" 12 184 199 "part5.ml" 12 184 200
+)
+"part5.ml" 12 184 224 "part5.ml" 12 184 225
+type(
+  'a
+)
+ident(
+  int_ref m "part5.ml" 12 184 208 "part5.ml" 12 184 209
+)
+"part5.ml" 12 184 226 "part5.ml" 12 184 227
+type(
+  'b
+)
+ident(
+  int_ref n "part5.ml" 12 184 217 "part5.ml" 12 184 218
+)
+"part5.ml" 12 184 222 "part5.ml" 12 184 227
+call(
+  tail
+)
+type(
+  'c
+)
+"part5.ml" 12 184 213 "part5.ml" 12 184 227
+type(
+  'b -> 'c
+)
+"part5.ml" 12 184 204 "part5.ml" 12 184 227
+type(
+  'a -> 'b -> 'c
+)
+"part5.ml" 12 184 195 "part5.ml" 12 184 227
+type(
+  ('a -> 'b -> 'c) -> 'a -> 'b -> 'c
+)
+"part5.ml" 14 229 233 "part5.ml" 14 229 237
+type(
+  ('a -> ('b -> 'c -> 'c) -> 'd) -> 'a -> 'd
+)
+ident(
+  def and' "part5.ml" 15 266 266 "_none_" 1 0 -1
+)
+"part5.ml" 14 229 244 "part5.ml" 14 229 245
+type(
+  'a -> ('b -> 'c -> 'c) -> 'd
+)
+ident(
+  def b "part5.ml" 14 229 249 "part5.ml" 14 229 265
+)
+"part5.ml" 14 229 253 "part5.ml" 14 229 254
+type(
+  'a
+)
+ident(
+  def c "part5.ml" 14 229 258 "part5.ml" 14 229 265
+)
+"part5.ml" 14 229 258 "part5.ml" 14 229 259
+type(
+  'a -> ('b -> 'c -> 'c) -> 'd
+)
+ident(
+  int_ref b "part5.ml" 14 229 244 "part5.ml" 14 229 245
+)
+"part5.ml" 14 229 260 "part5.ml" 14 229 261
+type(
+  'a
+)
+ident(
+  int_ref c "part5.ml" 14 229 253 "part5.ml" 14 229 254
+)
+"part5.ml" 14 229 262 "part5.ml" 14 229 265
+type(
+  'b -> 'c -> 'c
+)
+ident(
+  int_ref fls "part5.ml" 10 153 157 "part5.ml" 10 153 160
+)
+"part5.ml" 14 229 258 "part5.ml" 14 229 265
+call(
+  tail
+)
+type(
+  'd
+)
+"part5.ml" 14 229 249 "part5.ml" 14 229 265
+type(
+  'a -> 'd
+)
+"part5.ml" 14 229 240 "part5.ml" 14 229 265
+type(
+  ('a -> ('b -> 'c -> 'c) -> 'd) -> 'a -> 'd
+)
+"part5.ml" 15 266 270 "part5.ml" 15 266 273
+type(
+  (('a -> 'b -> 'a) -> 'c -> ('d -> 'e -> 'd) -> ('f -> 'g -> 'g) -> 'h) ->
+  'c -> 'h
+)
+ident(
+  def or' "part5.ml" 16 310 310 "_none_" 1 0 -1
+)
+"part5.ml" 15 266 280 "part5.ml" 15 266 281
+type(
+  ('a -> 'b -> 'a) -> 'c -> ('d -> 'e -> 'd) -> ('f -> 'g -> 'g) -> 'h
+)
+ident(
+  def b "part5.ml" 15 266 285 "part5.ml" 15 266 309
+)
+"part5.ml" 15 266 289 "part5.ml" 15 266 290
+type(
+  'c
+)
+ident(
+  def c "part5.ml" 15 266 294 "part5.ml" 15 266 309
+)
+"part5.ml" 15 266 294 "part5.ml" 15 266 295
+type(
+  ('a -> 'b -> 'a) -> 'c -> ('d -> 'e -> 'd) -> ('f -> 'g -> 'g) -> 'h
+)
+ident(
+  int_ref b "part5.ml" 15 266 280 "part5.ml" 15 266 281
+)
+"part5.ml" 15 266 296 "part5.ml" 15 266 299
+type(
+  'a -> 'b -> 'a
+)
+ident(
+  int_ref tru "part5.ml" 9 123 127 "part5.ml" 9 123 130
+)
+"part5.ml" 15 266 300 "part5.ml" 15 266 301
+type(
+  'c
+)
+ident(
+  int_ref c "part5.ml" 15 266 289 "part5.ml" 15 266 290
+)
+"part5.ml" 15 266 302 "part5.ml" 15 266 305
+type(
+  'd -> 'e -> 'd
+)
+ident(
+  int_ref tru "part5.ml" 9 123 127 "part5.ml" 9 123 130
+)
+"part5.ml" 15 266 306 "part5.ml" 15 266 309
+type(
+  'f -> 'g -> 'g
+)
+ident(
+  int_ref fls "part5.ml" 10 153 157 "part5.ml" 10 153 160
+)
+"part5.ml" 15 266 294 "part5.ml" 15 266 309
+call(
+  tail
+)
+type(
+  'h
+)
+"part5.ml" 15 266 285 "part5.ml" 15 266 309
+type(
+  'c -> 'h
+)
+"part5.ml" 15 266 276 "part5.ml" 15 266 309
+type(
+  (('a -> 'b -> 'a) -> 'c -> ('d -> 'e -> 'd) -> ('f -> 'g -> 'g) -> 'h) ->
+  'c -> 'h
+)
+"part5.ml" 16 310 314 "part5.ml" 16 310 318
+type(
+  (('a -> 'b -> 'b) -> ('c -> 'd -> 'c) -> 'e) -> 'e
+)
+ident(
+  def not' "part5.ml" 19 357 357 "_none_" 1 0 -1
+)
+"part5.ml" 16 310 325 "part5.ml" 16 310 326
+type(
+  ('a -> 'b -> 'b) -> ('c -> 'd -> 'c) -> 'e
+)
+ident(
+  def b "part5.ml" 16 310 330 "part5.ml" 16 310 339
+)
+"part5.ml" 16 310 330 "part5.ml" 16 310 331
+type(
+  ('a -> 'b -> 'b) -> ('c -> 'd -> 'c) -> 'e
+)
+ident(
+  int_ref b "part5.ml" 16 310 325 "part5.ml" 16 310 326
+)
+"part5.ml" 16 310 332 "part5.ml" 16 310 335
+type(
+  'a -> 'b -> 'b
+)
+ident(
+  int_ref fls "part5.ml" 10 153 157 "part5.ml" 10 153 160
+)
+"part5.ml" 16 310 336 "part5.ml" 16 310 339
+type(
+  'c -> 'd -> 'c
+)
+ident(
+  int_ref tru "part5.ml" 9 123 127 "part5.ml" 9 123 130
+)
+"part5.ml" 16 310 330 "part5.ml" 16 310 339
+call(
+  tail
+)
+type(
+  'e
+)
+"part5.ml" 16 310 321 "part5.ml" 16 310 339
+type(
+  (('a -> 'b -> 'b) -> ('c -> 'd -> 'c) -> 'e) -> 'e
+)
+"part5.ml" 19 357 361 "part5.ml" 19 357 365
+type(
+  'a -> 'b -> ('a -> 'b -> 'c) -> 'c
+)
+ident(
+  def pair "part5.ml" 20 401 401 "_none_" 1 0 -1
+)
+"part5.ml" 19 357 372 "part5.ml" 19 357 373
+type(
+  'a
+)
+ident(
+  def f "part5.ml" 19 357 377 "part5.ml" 19 357 400
+)
+"part5.ml" 19 357 381 "part5.ml" 19 357 382
+type(
+  'b
+)
+ident(
+  def s "part5.ml" 19 357 386 "part5.ml" 19 357 400
+)
+"part5.ml" 19 357 390 "part5.ml" 19 357 391
+type(
+  'a -> 'b -> 'c
+)
+ident(
+  def b "part5.ml" 19 357 395 "part5.ml" 19 357 400
+)
+"part5.ml" 19 357 395 "part5.ml" 19 357 396
+type(
+  'a -> 'b -> 'c
+)
+ident(
+  int_ref b "part5.ml" 19 357 390 "part5.ml" 19 357 391
+)
+"part5.ml" 19 357 397 "part5.ml" 19 357 398
+type(
+  'a
+)
+ident(
+  int_ref f "part5.ml" 19 357 372 "part5.ml" 19 357 373
+)
+"part5.ml" 19 357 399 "part5.ml" 19 357 400
+type(
+  'b
+)
+ident(
+  int_ref s "part5.ml" 19 357 381 "part5.ml" 19 357 382
+)
+"part5.ml" 19 357 395 "part5.ml" 19 357 400
+call(
+  tail
+)
+type(
+  'c
+)
+"part5.ml" 19 357 386 "part5.ml" 19 357 400
+type(
+  ('a -> 'b -> 'c) -> 'c
+)
+"part5.ml" 19 357 377 "part5.ml" 19 357 400
+type(
+  'b -> ('a -> 'b -> 'c) -> 'c
+)
+"part5.ml" 19 357 368 "part5.ml" 19 357 400
+type(
+  'a -> 'b -> ('a -> 'b -> 'c) -> 'c
+)
+"part5.ml" 20 401 405 "part5.ml" 20 401 408
+type(
+  (('a -> 'b -> 'a) -> 'c) -> 'c
+)
+ident(
+  def fst "part5.ml" 21 419 419 "_none_" 1 0 -1
+)
+"part5.ml" 20 401 409 "part5.ml" 20 401 410
+type(
+  ('a -> 'b -> 'a) -> 'c
+)
+ident(
+  def p "part5.ml" 20 401 413 "part5.ml" 20 401 418
+)
+"part5.ml" 20 401 413 "part5.ml" 20 401 414
+type(
+  ('a -> 'b -> 'a) -> 'c
+)
+ident(
+  int_ref p "part5.ml" 20 401 409 "part5.ml" 20 401 410
+)
+"part5.ml" 20 401 415 "part5.ml" 20 401 418
+type(
+  'a -> 'b -> 'a
+)
+ident(
+  int_ref tru "part5.ml" 9 123 127 "part5.ml" 9 123 130
+)
+"part5.ml" 20 401 413 "part5.ml" 20 401 418
+call(
+  tail
+)
+type(
+  'c
+)
+"part5.ml" 21 419 423 "part5.ml" 21 419 426
+type(
+  (('a -> 'b -> 'b) -> 'c) -> 'c
+)
+ident(
+  def snd "part5.ml" 24 461 461 "_none_" 1 0 -1
+)
+"part5.ml" 21 419 433 "part5.ml" 21 419 434
+type(
+  ('a -> 'b -> 'b) -> 'c
+)
+ident(
+  def p "part5.ml" 21 419 438 "part5.ml" 21 419 443
+)
+"part5.ml" 21 419 438 "part5.ml" 21 419 439
+type(
+  ('a -> 'b -> 'b) -> 'c
+)
+ident(
+  int_ref p "part5.ml" 21 419 433 "part5.ml" 21 419 434
+)
+"part5.ml" 21 419 440 "part5.ml" 21 419 443
+type(
+  'a -> 'b -> 'b
+)
+ident(
+  int_ref fls "part5.ml" 10 153 157 "part5.ml" 10 153 160
+)
+"part5.ml" 21 419 438 "part5.ml" 21 419 443
+call(
+  tail
+)
+type(
+  'c
+)
+"part5.ml" 21 419 429 "part5.ml" 21 419 443
+type(
+  (('a -> 'b -> 'b) -> 'c) -> 'c
+)
+"part5.ml" 24 461 465 "part5.ml" 24 461 467
+type(
+  'a -> 'b -> 'b
+)
+ident(
+  def c0 "part5.ml" 25 490 490 "_none_" 1 0 -1
+)
+"part5.ml" 24 461 474 "part5.ml" 24 461 475
+type(
+  'a
+)
+ident(
+  def s "part5.ml" 24 461 479 "part5.ml" 24 461 489
+)
+"part5.ml" 24 461 483 "part5.ml" 24 461 484
+type(
+  'b
+)
+ident(
+  def z "part5.ml" 24 461 488 "part5.ml" 24 461 489
+)
+"part5.ml" 24 461 488 "part5.ml" 24 461 489
+type(
+  'b
+)
+ident(
+  int_ref z "part5.ml" 24 461 483 "part5.ml" 24 461 484
+)
+"part5.ml" 24 461 479 "part5.ml" 24 461 489
+type(
+  'b -> 'b
+)
+"part5.ml" 24 461 470 "part5.ml" 24 461 489
+type(
+  'a -> 'b -> 'b
+)
+"part5.ml" 25 490 494 "part5.ml" 25 490 496
+type(
+  ('a -> 'b) -> 'a -> 'b
+)
+ident(
+  def c1 "part5.ml" 26 521 521 "_none_" 1 0 -1
+)
+"part5.ml" 25 490 503 "part5.ml" 25 490 504
+type(
+  'a -> 'b
+)
+ident(
+  def s "part5.ml" 25 490 508 "part5.ml" 25 490 520
+)
+"part5.ml" 25 490 512 "part5.ml" 25 490 513
+type(
+  'a
+)
+ident(
+  def z "part5.ml" 25 490 517 "part5.ml" 25 490 520
+)
+"part5.ml" 25 490 517 "part5.ml" 25 490 518
+type(
+  'a -> 'b
+)
+ident(
+  int_ref s "part5.ml" 25 490 503 "part5.ml" 25 490 504
+)
+"part5.ml" 25 490 519 "part5.ml" 25 490 520
+type(
+  'a
+)
+ident(
+  int_ref z "part5.ml" 25 490 512 "part5.ml" 25 490 513
+)
+"part5.ml" 25 490 517 "part5.ml" 25 490 520
+call(
+  tail
+)
+type(
+  'b
+)
+"part5.ml" 25 490 508 "part5.ml" 25 490 520
+type(
+  'a -> 'b
+)
+"part5.ml" 25 490 499 "part5.ml" 25 490 520
+type(
+  ('a -> 'b) -> 'a -> 'b
+)
+"part5.ml" 26 521 525 "part5.ml" 26 521 527
+type(
+  ('a -> 'a) -> 'a -> 'a
+)
+ident(
+  def c2 "part5.ml" 27 556 556 "_none_" 1 0 -1
+)
+"part5.ml" 26 521 534 "part5.ml" 26 521 535
+type(
+  'a -> 'a
+)
+ident(
+  def s "part5.ml" 26 521 539 "part5.ml" 26 521 555
+)
+"part5.ml" 26 521 543 "part5.ml" 26 521 544
+type(
+  'a
+)
+ident(
+  def z "part5.ml" 26 521 548 "part5.ml" 26 521 555
+)
+"part5.ml" 26 521 548 "part5.ml" 26 521 549
+type(
+  'a -> 'a
+)
+ident(
+  int_ref s "part5.ml" 26 521 534 "part5.ml" 26 521 535
+)
+"part5.ml" 26 521 551 "part5.ml" 26 521 552
+type(
+  'a -> 'a
+)
+ident(
+  int_ref s "part5.ml" 26 521 534 "part5.ml" 26 521 535
+)
+"part5.ml" 26 521 553 "part5.ml" 26 521 554
+type(
+  'a
+)
+ident(
+  int_ref z "part5.ml" 26 521 543 "part5.ml" 26 521 544
+)
+"part5.ml" 26 521 550 "part5.ml" 26 521 555
+call(
+  stack
+)
+type(
+  'a
+)
+"part5.ml" 26 521 548 "part5.ml" 26 521 555
+call(
+  tail
+)
+type(
+  'a
+)
+"part5.ml" 26 521 539 "part5.ml" 26 521 555
+type(
+  'a -> 'a
+)
+"part5.ml" 26 521 530 "part5.ml" 26 521 555
+type(
+  ('a -> 'a) -> 'a -> 'a
+)
+"part5.ml" 27 556 560 "part5.ml" 27 556 562
+type(
+  ('a -> 'a) -> 'a -> 'a
+)
+ident(
+  def c3 "part5.ml" 29 596 596 "_none_" 1 0 -1
+)
+"part5.ml" 27 556 569 "part5.ml" 27 556 570
+type(
+  'a -> 'a
+)
+ident(
+  def s "part5.ml" 27 556 574 "part5.ml" 27 556 594
+)
+"part5.ml" 27 556 578 "part5.ml" 27 556 579
+type(
+  'a
+)
+ident(
+  def z "part5.ml" 27 556 583 "part5.ml" 27 556 594
+)
+"part5.ml" 27 556 583 "part5.ml" 27 556 584
+type(
+  'a -> 'a
+)
+ident(
+  int_ref s "part5.ml" 27 556 569 "part5.ml" 27 556 570
+)
+"part5.ml" 27 556 586 "part5.ml" 27 556 587
+type(
+  'a -> 'a
+)
+ident(
+  int_ref s "part5.ml" 27 556 569 "part5.ml" 27 556 570
+)
+"part5.ml" 27 556 589 "part5.ml" 27 556 590
+type(
+  'a -> 'a
+)
+ident(
+  int_ref s "part5.ml" 27 556 569 "part5.ml" 27 556 570
+)
+"part5.ml" 27 556 591 "part5.ml" 27 556 592
+type(
+  'a
+)
+ident(
+  int_ref z "part5.ml" 27 556 578 "part5.ml" 27 556 579
+)
+"part5.ml" 27 556 588 "part5.ml" 27 556 593
+call(
+  stack
+)
+type(
+  'a
+)
+"part5.ml" 27 556 585 "part5.ml" 27 556 594
+call(
+  stack
+)
+type(
+  'a
+)
+"part5.ml" 27 556 583 "part5.ml" 27 556 594
+call(
+  tail
+)
+type(
+  'a
+)
+"part5.ml" 27 556 574 "part5.ml" 27 556 594
+type(
+  'a -> 'a
+)
+"part5.ml" 27 556 565 "part5.ml" 27 556 594
+type(
+  ('a -> 'a) -> 'a -> 'a
+)
+"part5.ml" 29 596 600 "part5.ml" 29 596 603
+type(
+  (('a -> 'b) -> 'c -> 'a) -> ('a -> 'b) -> 'c -> 'b
+)
+ident(
+  def scc "part5.ml" 30 643 643 "_none_" 1 0 -1
+)
+"part5.ml" 29 596 610 "part5.ml" 29 596 611
+type(
+  ('a -> 'b) -> 'c -> 'a
+)
+ident(
+  def n "part5.ml" 29 596 615 "part5.ml" 29 596 642
+)
+"part5.ml" 29 596 619 "part5.ml" 29 596 620
+type(
+  'a -> 'b
+)
+ident(
+  def s "part5.ml" 29 596 624 "part5.ml" 29 596 642
+)
+"part5.ml" 29 596 628 "part5.ml" 29 596 629
+type(
+  'c
+)
+ident(
+  def z "part5.ml" 29 596 633 "part5.ml" 29 596 642
+)
+"part5.ml" 29 596 633 "part5.ml" 29 596 634
+type(
+  'a -> 'b
+)
+ident(
+  int_ref s "part5.ml" 29 596 619 "part5.ml" 29 596 620
+)
+"part5.ml" 29 596 636 "part5.ml" 29 596 637
+type(
+  ('a -> 'b) -> 'c -> 'a
+)
+ident(
+  int_ref n "part5.ml" 29 596 610 "part5.ml" 29 596 611
+)
+"part5.ml" 29 596 638 "part5.ml" 29 596 639
+type(
+  'a -> 'b
+)
+ident(
+  int_ref s "part5.ml" 29 596 619 "part5.ml" 29 596 620
+)
+"part5.ml" 29 596 640 "part5.ml" 29 596 641
+type(
+  'c
+)
+ident(
+  int_ref z "part5.ml" 29 596 628 "part5.ml" 29 596 629
+)
+"part5.ml" 29 596 635 "part5.ml" 29 596 642
+call(
+  stack
+)
+type(
+  'a
+)
+"part5.ml" 29 596 633 "part5.ml" 29 596 642
+call(
+  tail
+)
+type(
+  'b
+)
+"part5.ml" 29 596 624 "part5.ml" 29 596 642
+type(
+  'c -> 'b
+)
+"part5.ml" 29 596 615 "part5.ml" 29 596 642
+type(
+  ('a -> 'b) -> 'c -> 'b
+)
+"part5.ml" 29 596 606 "part5.ml" 29 596 642
+type(
+  (('a -> 'b) -> 'c -> 'a) -> ('a -> 'b) -> 'c -> 'b
+)
+"part5.ml" 30 643 647 "part5.ml" 30 643 651
+type(
+  ('a -> 'b -> 'c) -> ('a -> 'd -> 'b) -> 'a -> 'd -> 'c
+)
+ident(
+  def plus "part5.ml" 31 702 702 "_none_" 1 0 -1
+)
+"part5.ml" 30 643 658 "part5.ml" 30 643 659
+type(
+  'a -> 'b -> 'c
+)
+ident(
+  def m "part5.ml" 30 643 663 "part5.ml" 30 643 701
+)
+"part5.ml" 30 643 667 "part5.ml" 30 643 668
+type(
+  'a -> 'd -> 'b
+)
+ident(
+  def n "part5.ml" 30 643 672 "part5.ml" 30 643 701
+)
+"part5.ml" 30 643 676 "part5.ml" 30 643 677
+type(
+  'a
+)
+ident(
+  def s "part5.ml" 30 643 681 "part5.ml" 30 643 701
+)
+"part5.ml" 30 643 685 "part5.ml" 30 643 686
+type(
+  'd
+)
+ident(
+  def z "part5.ml" 30 643 690 "part5.ml" 30 643 701
+)
+"part5.ml" 30 643 690 "part5.ml" 30 643 691
+type(
+  'a -> 'b -> 'c
+)
+ident(
+  int_ref m "part5.ml" 30 643 658 "part5.ml" 30 643 659
+)
+"part5.ml" 30 643 692 "part5.ml" 30 643 693
+type(
+  'a
+)
+ident(
+  int_ref s "part5.ml" 30 643 676 "part5.ml" 30 643 677
+)
+"part5.ml" 30 643 695 "part5.ml" 30 643 696
+type(
+  'a -> 'd -> 'b
+)
+ident(
+  int_ref n "part5.ml" 30 643 667 "part5.ml" 30 643 668
+)
+"part5.ml" 30 643 697 "part5.ml" 30 643 698
+type(
+  'a
+)
+ident(
+  int_ref s "part5.ml" 30 643 676 "part5.ml" 30 643 677
+)
+"part5.ml" 30 643 699 "part5.ml" 30 643 700
+type(
+  'd
+)
+ident(
+  int_ref z "part5.ml" 30 643 685 "part5.ml" 30 643 686
+)
+"part5.ml" 30 643 694 "part5.ml" 30 643 701
+call(
+  stack
+)
+type(
+  'b
+)
+"part5.ml" 30 643 690 "part5.ml" 30 643 701
+call(
+  tail
+)
+type(
+  'c
+)
+"part5.ml" 30 643 681 "part5.ml" 30 643 701
+type(
+  'd -> 'c
+)
+"part5.ml" 30 643 672 "part5.ml" 30 643 701
+type(
+  'a -> 'd -> 'c
+)
+"part5.ml" 30 643 663 "part5.ml" 30 643 701
+type(
+  ('a -> 'd -> 'b) -> 'a -> 'd -> 'c
+)
+"part5.ml" 30 643 654 "part5.ml" 30 643 701
+type(
+  ('a -> 'b -> 'c) -> ('a -> 'd -> 'b) -> 'a -> 'd -> 'c
+)
+"part5.ml" 31 702 706 "part5.ml" 31 702 711
+type(
+  ((('a -> 'b -> 'c) -> 'a -> 'b -> 'd) -> ('e -> 'f -> 'f) -> 'g) ->
+  ('a -> 'c -> 'd) -> 'g
+)
+ident(
+  def times "part5.ml" 33 747 747 "_none_" 1 0 -1
+)
+"part5.ml" 31 702 718 "part5.ml" 31 702 719
+type(
+  (('a -> 'b -> 'c) -> 'a -> 'b -> 'd) -> ('e -> 'f -> 'f) -> 'g
+)
+ident(
+  def m "part5.ml" 31 702 723 "part5.ml" 31 702 745
+)
+"part5.ml" 31 702 727 "part5.ml" 31 702 728
+type(
+  'a -> 'c -> 'd
+)
+ident(
+  def n "part5.ml" 31 702 732 "part5.ml" 31 702 745
+)
+"part5.ml" 31 702 732 "part5.ml" 31 702 733
+type(
+  (('a -> 'b -> 'c) -> 'a -> 'b -> 'd) -> ('e -> 'f -> 'f) -> 'g
+)
+ident(
+  int_ref m "part5.ml" 31 702 718 "part5.ml" 31 702 719
+)
+"part5.ml" 31 702 735 "part5.ml" 31 702 739
+type(
+  ('a -> 'c -> 'd) -> ('a -> 'b -> 'c) -> 'a -> 'b -> 'd
+)
+ident(
+  int_ref plus "part5.ml" 30 643 647 "part5.ml" 30 643 651
+)
+"part5.ml" 31 702 740 "part5.ml" 31 702 741
+type(
+  'a -> 'c -> 'd
+)
+ident(
+  int_ref n "part5.ml" 31 702 727 "part5.ml" 31 702 728
+)
+"part5.ml" 31 702 734 "part5.ml" 31 702 742
+call(
+  stack
+)
+type(
+  ('a -> 'b -> 'c) -> 'a -> 'b -> 'd
+)
+"part5.ml" 31 702 743 "part5.ml" 31 702 745
+type(
+  'e -> 'f -> 'f
+)
+ident(
+  int_ref c0 "part5.ml" 24 461 465 "part5.ml" 24 461 467
+)
+"part5.ml" 31 702 732 "part5.ml" 31 702 745
+call(
+  tail
+)
+type(
+  'g
+)
+"part5.ml" 31 702 723 "part5.ml" 31 702 745
+type(
+  ('a -> 'c -> 'd) -> 'g
+)
+"part5.ml" 31 702 714 "part5.ml" 31 702 745
+type(
+  ((('a -> 'b -> 'c) -> 'a -> 'b -> 'd) -> ('e -> 'f -> 'f) -> 'g) ->
+  ('a -> 'c -> 'd) -> 'g
+)
+"part5.ml" 33 747 751 "part5.ml" 33 747 756
+type(
+  (('a -> 'b -> 'c -> 'c) -> ('d -> 'e -> 'd) -> 'f) -> 'f
+)
+ident(
+  def iszro "part5.ml" 35 790 790 "_none_" 1 0 -1
+)
+"part5.ml" 33 747 763 "part5.ml" 33 747 764
+type(
+  ('a -> 'b -> 'c -> 'c) -> ('d -> 'e -> 'd) -> 'f
+)
+ident(
+  def m "part5.ml" 33 747 768 "part5.ml" 33 747 788
+)
+"part5.ml" 33 747 768 "part5.ml" 33 747 769
+type(
+  ('a -> 'b -> 'c -> 'c) -> ('d -> 'e -> 'd) -> 'f
+)
+ident(
+  int_ref m "part5.ml" 33 747 763 "part5.ml" 33 747 764
+)
+"part5.ml" 33 747 775 "part5.ml" 33 747 776
+type(
+  'a
+)
+ident(
+  def x "part5.ml" 33 747 780 "part5.ml" 33 747 783
+)
+"part5.ml" 33 747 780 "part5.ml" 33 747 783
+type(
+  'b -> 'c -> 'c
+)
+ident(
+  int_ref fls "part5.ml" 10 153 157 "part5.ml" 10 153 160
+)
+"part5.ml" 33 747 770 "part5.ml" 33 747 784
+type(
+  'a -> 'b -> 'c -> 'c
+)
+"part5.ml" 33 747 785 "part5.ml" 33 747 788
+type(
+  'd -> 'e -> 'd
+)
+ident(
+  int_ref tru "part5.ml" 9 123 127 "part5.ml" 9 123 130
+)
+"part5.ml" 33 747 768 "part5.ml" 33 747 788
+call(
+  tail
+)
+type(
+  'f
+)
+"part5.ml" 33 747 759 "part5.ml" 33 747 788
+type(
+  (('a -> 'b -> 'c -> 'c) -> ('d -> 'e -> 'd) -> 'f) -> 'f
+)
+"part5.ml" 35 790 794 "part5.ml" 35 790 796
+type(
+  (('a -> 'b -> 'b) -> ('c -> 'd -> 'd) -> 'e) -> 'e
+)
+ident(
+  def zz "part5.ml" 36 823 823 "_none_" 1 0 -1
+)
+"part5.ml" 35 790 803 "part5.ml" 35 790 804
+type(
+  ('a -> 'b -> 'b) -> ('c -> 'd -> 'd) -> 'e
+)
+ident(
+  def m "part5.ml" 35 790 808 "part5.ml" 35 790 822
+)
+"part5.ml" 35 790 809 "part5.ml" 35 790 813
+type(
+  ('a -> 'b -> 'b) ->
+  ('c -> 'd -> 'd) -> (('a -> 'b -> 'b) -> ('c -> 'd -> 'd) -> 'e) -> 'e
+)
+ident(
+  int_ref pair "part5.ml" 19 357 361 "part5.ml" 19 357 365
+)
+"part5.ml" 35 790 814 "part5.ml" 35 790 816
+type(
+  'a -> 'b -> 'b
+)
+ident(
+  int_ref c0 "part5.ml" 24 461 465 "part5.ml" 24 461 467
+)
+"part5.ml" 35 790 817 "part5.ml" 35 790 819
+type(
+  'c -> 'd -> 'd
+)
+ident(
+  int_ref c0 "part5.ml" 24 461 465 "part5.ml" 24 461 467
+)
+"part5.ml" 35 790 808 "part5.ml" 35 790 820
+type(
+  (('a -> 'b -> 'b) -> ('c -> 'd -> 'd) -> 'e) -> 'e
+)
+"part5.ml" 35 790 821 "part5.ml" 35 790 822
+type(
+  ('a -> 'b -> 'b) -> ('c -> 'd -> 'd) -> 'e
+)
+ident(
+  int_ref m "part5.ml" 35 790 803 "part5.ml" 35 790 804
+)
+"part5.ml" 35 790 808 "part5.ml" 35 790 822
+call(
+  tail
+)
+type(
+  'e
+)
+"part5.ml" 35 790 799 "part5.ml" 35 790 822
+type(
+  (('a -> 'b -> 'b) -> ('c -> 'd -> 'd) -> 'e) -> 'e
+)
+"part5.ml" 36 823 827 "part5.ml" 36 823 829
+type(
+  (('a -> 'b -> 'b) -> ('c -> 'd) -> 'e -> 'c) ->
+  ((('c -> 'd) -> 'e -> 'c) -> (('c -> 'd) -> 'e -> 'd) -> 'f) -> 'f
+)
+ident(
+  def ss "part5.ml" 37 872 872 "_none_" 1 0 -1
+)
+"part5.ml" 36 823 836 "part5.ml" 36 823 837
+type(
+  ('a -> 'b -> 'b) -> ('c -> 'd) -> 'e -> 'c
+)
+ident(
+  def p "part5.ml" 36 823 841 "part5.ml" 36 823 871
+)
+"part5.ml" 36 823 841 "part5.ml" 36 823 845
+type(
+  (('c -> 'd) -> 'e -> 'c) ->
+  (('c -> 'd) -> 'e -> 'd) ->
+  ((('c -> 'd) -> 'e -> 'c) -> (('c -> 'd) -> 'e -> 'd) -> 'f) -> 'f
+)
+ident(
+  int_ref pair "part5.ml" 19 357 361 "part5.ml" 19 357 365
+)
+"part5.ml" 36 823 847 "part5.ml" 36 823 850
+type(
+  (('a -> 'b -> 'b) -> ('c -> 'd) -> 'e -> 'c) -> ('c -> 'd) -> 'e -> 'c
+)
+ident(
+  int_ref snd "part5.ml" 21 419 423 "part5.ml" 21 419 426
+)
+"part5.ml" 36 823 851 "part5.ml" 36 823 852
+type(
+  ('a -> 'b -> 'b) -> ('c -> 'd) -> 'e -> 'c
+)
+ident(
+  int_ref p "part5.ml" 36 823 836 "part5.ml" 36 823 837
+)
+"part5.ml" 36 823 846 "part5.ml" 36 823 853
+call(
+  stack
+)
+type(
+  ('c -> 'd) -> 'e -> 'c
+)
+"part5.ml" 36 823 855 "part5.ml" 36 823 859
+type(
+  (('c -> 'd) -> 'c -> 'd) ->
+  (('c -> 'd) -> 'e -> 'c) -> ('c -> 'd) -> 'e -> 'd
+)
+ident(
+  int_ref plus "part5.ml" 30 643 647 "part5.ml" 30 643 651
+)
+"part5.ml" 36 823 860 "part5.ml" 36 823 862
+type(
+  ('c -> 'd) -> 'c -> 'd
+)
+ident(
+  int_ref c1 "part5.ml" 25 490 494 "part5.ml" 25 490 496
+)
+"part5.ml" 36 823 864 "part5.ml" 36 823 867
+type(
+  (('a -> 'b -> 'b) -> ('c -> 'd) -> 'e -> 'c) -> ('c -> 'd) -> 'e -> 'c
+)
+ident(
+  int_ref snd "part5.ml" 21 419 423 "part5.ml" 21 419 426
+)
+"part5.ml" 36 823 868 "part5.ml" 36 823 869
+type(
+  ('a -> 'b -> 'b) -> ('c -> 'd) -> 'e -> 'c
+)
+ident(
+  int_ref p "part5.ml" 36 823 836 "part5.ml" 36 823 837
+)
+"part5.ml" 36 823 863 "part5.ml" 36 823 870
+call(
+  stack
+)
+type(
+  ('c -> 'd) -> 'e -> 'c
+)
+"part5.ml" 36 823 854 "part5.ml" 36 823 871
+call(
+  stack
+)
+type(
+  ('c -> 'd) -> 'e -> 'd
+)
+"part5.ml" 36 823 841 "part5.ml" 36 823 871
+call(
+  tail
+)
+type(
+  ((('c -> 'd) -> 'e -> 'c) -> (('c -> 'd) -> 'e -> 'd) -> 'f) -> 'f
+)
+"part5.ml" 36 823 832 "part5.ml" 36 823 871
+type(
+  (('a -> 'b -> 'b) -> ('c -> 'd) -> 'e -> 'c) ->
+  ((('c -> 'd) -> 'e -> 'c) -> (('c -> 'd) -> 'e -> 'd) -> 'f) -> 'f
+)
+"part5.ml" 37 872 876 "part5.ml" 37 872 879
+type(
+  (((('a -> 'b -> 'b) -> ('c -> 'd) -> 'e -> 'c) ->
+    ((('c -> 'd) -> 'e -> 'c) -> (('c -> 'd) -> 'e -> 'd) -> 'f) -> 'f) ->
+   ((('g -> 'h -> 'h) -> ('i -> 'j -> 'j) -> 'k) -> 'k) ->
+   ('l -> 'm -> 'l) -> 'n) ->
+  'n
+)
+ident(
+  def prd "part5.ml" 39 899 899 "_none_" 1 0 -1
+)
+"part5.ml" 37 872 880 "part5.ml" 37 872 881
+type(
+  ((('a -> 'b -> 'b) -> ('c -> 'd) -> 'e -> 'c) ->
+   ((('c -> 'd) -> 'e -> 'c) -> (('c -> 'd) -> 'e -> 'd) -> 'f) -> 'f) ->
+  ((('g -> 'h -> 'h) -> ('i -> 'j -> 'j) -> 'k) -> 'k) ->
+  ('l -> 'm -> 'l) -> 'n
+)
+ident(
+  def m "part5.ml" 37 872 884 "part5.ml" 37 872 897
+)
+"part5.ml" 37 872 884 "part5.ml" 37 872 887
+type(
+  (('l -> 'm -> 'l) -> 'n) -> 'n
+)
+ident(
+  int_ref fst "part5.ml" 20 401 405 "part5.ml" 20 401 408
+)
+"part5.ml" 37 872 889 "part5.ml" 37 872 890
+type(
+  ((('a -> 'b -> 'b) -> ('c -> 'd) -> 'e -> 'c) ->
+   ((('c -> 'd) -> 'e -> 'c) -> (('c -> 'd) -> 'e -> 'd) -> 'f) -> 'f) ->
+  ((('g -> 'h -> 'h) -> ('i -> 'j -> 'j) -> 'k) -> 'k) ->
+  ('l -> 'm -> 'l) -> 'n
+)
+ident(
+  int_ref m "part5.ml" 37 872 880 "part5.ml" 37 872 881
+)
+"part5.ml" 37 872 891 "part5.ml" 37 872 893
+type(
+  (('a -> 'b -> 'b) -> ('c -> 'd) -> 'e -> 'c) ->
+  ((('c -> 'd) -> 'e -> 'c) -> (('c -> 'd) -> 'e -> 'd) -> 'f) -> 'f
+)
+ident(
+  int_ref ss "part5.ml" 36 823 827 "part5.ml" 36 823 829
+)
+"part5.ml" 37 872 894 "part5.ml" 37 872 896
+type(
+  (('g -> 'h -> 'h) -> ('i -> 'j -> 'j) -> 'k) -> 'k
+)
+ident(
+  int_ref zz "part5.ml" 35 790 794 "part5.ml" 35 790 796
+)
+"part5.ml" 37 872 888 "part5.ml" 37 872 897
+call(
+  stack
+)
+type(
+  ('l -> 'm -> 'l) -> 'n
+)
+"part5.ml" 37 872 884 "part5.ml" 37 872 897
+call(
+  tail
+)
+type(
+  'n
+)
+"part5.ml" 39 899 903 "part5.ml" 39 899 911
+type(
+  'a ->
+  (((((('b -> 'c -> 'c) -> ('d -> 'e) -> 'f -> 'd) ->
+      ((('d -> 'e) -> 'f -> 'd) -> (('d -> 'e) -> 'f -> 'e) -> 'g) -> 'g) ->
+     ((('h -> 'i -> 'i) -> ('j -> 'k -> 'k) -> 'l) -> 'l) ->
+     ('m -> 'n -> 'm) -> 'o) ->
+    'o) ->
+   'a -> 'p) ->
+  'p
+)
+ident(
+  def subtract "part5.ml" 39 899 939 "_none_" 1 0 -1
+)
+"part5.ml" 39 899 918 "part5.ml" 39 899 919
+type(
+  'a
+)
+ident(
+  def m "part5.ml" 39 899 923 "part5.ml" 39 899 939
+)
+"part5.ml" 39 899 927 "part5.ml" 39 899 928
+type(
+  ((((('b -> 'c -> 'c) -> ('d -> 'e) -> 'f -> 'd) ->
+     ((('d -> 'e) -> 'f -> 'd) -> (('d -> 'e) -> 'f -> 'e) -> 'g) -> 'g) ->
+    ((('h -> 'i -> 'i) -> ('j -> 'k -> 'k) -> 'l) -> 'l) ->
+    ('m -> 'n -> 'm) -> 'o) ->
+   'o) ->
+  'a -> 'p
+)
+ident(
+  def n "part5.ml" 39 899 932 "part5.ml" 39 899 939
+)
+"part5.ml" 39 899 932 "part5.ml" 39 899 933
+type(
+  ((((('b -> 'c -> 'c) -> ('d -> 'e) -> 'f -> 'd) ->
+     ((('d -> 'e) -> 'f -> 'd) -> (('d -> 'e) -> 'f -> 'e) -> 'g) -> 'g) ->
+    ((('h -> 'i -> 'i) -> ('j -> 'k -> 'k) -> 'l) -> 'l) ->
+    ('m -> 'n -> 'm) -> 'o) ->
+   'o) ->
+  'a -> 'p
+)
+ident(
+  int_ref n "part5.ml" 39 899 927 "part5.ml" 39 899 928
+)
+"part5.ml" 39 899 934 "part5.ml" 39 899 937
+type(
+  (((('b -> 'c -> 'c) -> ('d -> 'e) -> 'f -> 'd) ->
+    ((('d -> 'e) -> 'f -> 'd) -> (('d -> 'e) -> 'f -> 'e) -> 'g) -> 'g) ->
+   ((('h -> 'i -> 'i) -> ('j -> 'k -> 'k) -> 'l) -> 'l) ->
+   ('m -> 'n -> 'm) -> 'o) ->
+  'o
+)
+ident(
+  int_ref prd "part5.ml" 37 872 876 "part5.ml" 37 872 879
+)
+"part5.ml" 39 899 938 "part5.ml" 39 899 939
+type(
+  'a
+)
+ident(
+  int_ref m "part5.ml" 39 899 918 "part5.ml" 39 899 919
+)
+"part5.ml" 39 899 932 "part5.ml" 39 899 939
+call(
+  tail
+)
+type(
+  'p
+)
+"part5.ml" 39 899 923 "part5.ml" 39 899 939
+type(
+  (((((('b -> 'c -> 'c) -> ('d -> 'e) -> 'f -> 'd) ->
+      ((('d -> 'e) -> 'f -> 'd) -> (('d -> 'e) -> 'f -> 'e) -> 'g) -> 'g) ->
+     ((('h -> 'i -> 'i) -> ('j -> 'k -> 'k) -> 'l) -> 'l) ->
+     ('m -> 'n -> 'm) -> 'o) ->
+    'o) ->
+   'a -> 'p) ->
+  'p
+)
+"part5.ml" 39 899 914 "part5.ml" 39 899 939
+type(
+  'a ->
+  (((((('b -> 'c -> 'c) -> ('d -> 'e) -> 'f -> 'd) ->
+      ((('d -> 'e) -> 'f -> 'd) -> (('d -> 'e) -> 'f -> 'e) -> 'g) -> 'g) ->
+     ((('h -> 'i -> 'i) -> ('j -> 'k -> 'k) -> 'l) -> 'l) ->
+     ('m -> 'n -> 'm) -> 'o) ->
+    'o) ->
+   'a -> 'p) ->
+  'p
+)
